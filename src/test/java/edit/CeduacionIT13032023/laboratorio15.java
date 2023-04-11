@@ -10,7 +10,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class laboratorio15 {
 	
-	String url="https://bonigarcia.dev/webdrivermanager/";
+	String url="https://www.selenium.dev/";
 
 	WebDriver driver;
 	
